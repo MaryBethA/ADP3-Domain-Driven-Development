@@ -44,12 +44,12 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
+    </component>
 
-  </component>
+
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task active="true" id="Default" summary="Default task"/>
       <changelist id="6a1020f6-3042-48a3-bdd2-439dde9466f8" name="Changes" comment="" />
       <created>1648740708546</created>
       <option name="number" value="Default" />
